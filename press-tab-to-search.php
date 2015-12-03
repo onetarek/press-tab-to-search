@@ -2,7 +2,7 @@
 /*
  Plugin Name: Press Tab to Search
  Plugin URI: http://onetarek.com/
- Description: Add "press tab to search" feature to google chrome browser for your own website
+ Description: Automatic search from address bar. Add the magical shortcut "press tab to search" in Google Chrome address bar for your own website. Add OpenSearch Description (OSD) in WordPress.
  Author: oneTarek
  Author URI: http://onetarek.com/
  Version: 1.0
